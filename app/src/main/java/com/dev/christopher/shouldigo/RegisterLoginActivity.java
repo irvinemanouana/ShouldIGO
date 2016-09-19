@@ -22,7 +22,7 @@ public class RegisterLoginActivity extends AppCompatActivity {
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         viewPager = (ViewPager) findViewById(R.id.viewpager);
         initViewPager(viewPager);
         tabLayout = (TabLayout) findViewById(R.id.tab);
