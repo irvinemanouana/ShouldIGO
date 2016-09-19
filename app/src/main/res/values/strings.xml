@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ShouldIGo</string>
+    <string name="title_activity_register_login">RegisterLoginActivity</string>
+    <string name="login">Connexion</string>
+    <string name="register">Créer un compte</string>
 </resources>
