@@ -5,7 +5,6 @@
     android:id="@+id/content_register_login"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.dev.christopher.shouldigo.RegisterLoginActivity"
     tools:showIn="@layout/activity_register_login">

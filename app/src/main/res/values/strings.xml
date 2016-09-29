@@ -6,4 +6,7 @@
     <string name="email">E-mail</string>
     <string name="password">Mot de passe</string>
     <string name="API_KEY">AIzaSyA8iJVippbyi6kqBTr1Ubc1QHcsLZ94lug</string>
+    <string name="firstname">Nom</string>
+    <string name="lastname">Prénom</string>
+    <string name="create">Créer</string>
 </resources>
